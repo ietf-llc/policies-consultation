@@ -1,9 +1,12 @@
 # policies-consultation
 Materials for a consultation with the IETF community on IETF LLC policies.
 
-The draft polices are in this project. You can comment on the policies here or via the LLC-Consultation mailing list (subscribe at https://www.ietf.org/mailman/listinfo/llc-consultation). 
+The draft polices are in this project. You can comment on the policies *here* or via the LLC-Consultation mailing list (subscribe at https://www.ietf.org/mailman/listinfo/llc-consultation). If you wish to use GitHub, you can open Issues or create Pull Requests. Opening an issue is like opening a discussion item, and so you can raise a point and begin a discussion. Creating a pull request is proposing an editorial change to a part of a given document. Both will work for our process, but initially it may be best to open an issue for discussion.
 
-Timing of this process
+
+
+Timing of the community consultation process:
+
 Wednesday, June 19, 2019 at 15:00 UTC
 - Live webinar on policies, 60 minutes duration, with Q&A. Join at https://ietf.webex.com/ietf/j.php?MTID=m41483e425f707ebcd439ddecf11ff15f
 - The webinar will be recorded for the convenience of interested parties unable to attend.
