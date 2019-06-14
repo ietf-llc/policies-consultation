@@ -39,9 +39,9 @@ Most Board meetings will take place electronically. Generally, Board Directors w
  
 On occasion, Board meetings may be co-located with other events. If a Board Director would like reimbursement to participate in a portion of a co-located event that they would not otherwise have attended, and solely in order to understand a topic that is being studied by the IETF LLC board, the Board Director must:
  
-1.     Submit a written justification along with a funding request, and receive the appropriate Approving Authority’s approval, in advance, to attend a specified portion of the co-located event, and
-2.     Use the additional day(s) to attend the co-located event and not for other activities, whether business or personal, and
-3.     Request reimbursement only for the costs of any extra day(s) of a hotel room and for individual meals for the Board Director.
+1 - Submit a written justification along with a funding request, and receive the appropriate Approving Authority’s approval, in advance, to attend a specified portion of the co-located event, and
+2 - Use the additional day(s) to attend the co-located event and not for other activities, whether business or personal, and
+3 - Request reimbursement only for the costs of any extra day(s) of a hotel room and for individual meals for the Board Director.
  
 **Other Travel**
 Other travel may be necessary or appropriate for certain Approved Travelers, such as to  visit potential future IETF meeting venues. If an individual believes such travel is appropriate in the context of their IETF LLC responsibilities or is invited to participate on behalf of the IETF LLC, the individual must first get the approval of the appropriate Approval Authority to be eligible to claim reimbursement for associated travel.
