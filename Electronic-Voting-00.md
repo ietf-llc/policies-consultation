@@ -5,7 +5,6 @@ Decisions  of the Board, with the exception of Director removal,  may be taken b
 
 The VA is responsible for tracking the vote and announcing the result to the Board mailing list and to the Secretary after the vote ends. Unless a greater affirmative vote is expressly required for an action under applicable law, the ISOC-IETF LLC Agreement, or an applicable Board policy, the affirmative vote of two thirds of the Directors then in office shall be an act of the Board. Actions approved by electronic vote shall be noted in the minutes of the next meeting of the Board.
 
+Policy version: X
 
-
-
-
+Last updated: XX/XX/XXXX
