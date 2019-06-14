@@ -5,16 +5,16 @@ DRAFT WHISTLEBLOWER POLICY
  
 It is the policy of IETF LLC not to retaliate against good faith reports of inappropriate, unethical or illegal conduct. Anyone may submit such reports.
  
--Reporting Responsibility
+**Reporting Responsibility**
 All Covered Individuals have the responsibility to promptly report violations, or concerns regarding potential violations of IETF LLC policies, its Code of Conduct, or applicable laws, regulations or ethical standards.
  
-Reporting Procedure 
+**Reporting Procedure **
 Violations or concerns regarding potential violations may be reported directly to any individual IETF LLC Board Director, the IETF Chair, or to the IETF LLC reporting mechanism. 
 
-Anonymous Reports
+**Anonymous Reports**
 The person making the report can choose to do so anonymously via a web-based tool, if they so wish. 
  
-Report Processing
+**Report Processing**
 All reports shall be promptly investigated by the IETF LLC Board in consultation with the Executive Director and, if necessary, legal counsel.  Covered Individuals who may be implicated in such reports shall not participate in any deliberation of the Board related to the complaint, except to present information directly to the Board on their own behalf.
  
 The investigation shall assess the complaint and determine what, if any, course of action is appropriate to take in response.  IETF LLC will make every effort to treat a complainant’s identity (if it is known) with an appropriate regard for confidentiality, with the understanding that the details of complaints may need to be shared with others in order to investigate such complaints properly.
