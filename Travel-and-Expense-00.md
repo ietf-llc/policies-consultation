@@ -16,16 +16,12 @@ This policy is designed to cover all typical  travel expenses; however, it is im
  
 The following table describes the relevant Approval Authorities for the various types of individuals covered by this policy:
  
-Individual Type
-Approval Authority 
-Approved Travelers (except for Board Directors)
-Executive Director
-Board Directors (except for the Treasurer)
-Treasurer
-Treasurer
-Board Chair
-Executive Director
-Treasurer
+| Individual Type                                 | Approval Authority |
+|-------------------------------------------------|--------------------|
+| Approved Travelers (except for Board Directors) | Executive Director |
+| Board Directors (except for the Treasurer)      | Treasurer          |
+| Treasurer                                       | Board Chair        |
+| Executive Director                              | Treasurer          |
  
  
 **ACCEPTABLE TRAVEL & NECESSARY AUTHORIZATIONS**
