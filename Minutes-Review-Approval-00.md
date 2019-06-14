@@ -12,4 +12,6 @@ DRAFT Process for Reviewing and Posting Official Meeting Minutes
 3. IETF Secretariat will post to the IETF LLC website.
 
 
+Policy version: X
 
+Last updated: XX/XX/XXXX
