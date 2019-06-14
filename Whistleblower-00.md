@@ -22,4 +22,5 @@ The investigation shall assess the complaint and determine what, if any, course 
 No complainant who has made a complaint in good faith shall suffer harassment or retaliation for such complaint by a Covered Individual. Any Covered Individual who retaliates against a complainant acting in good faith will be subject to appropriate discipline, which may include termination of their relationship with IETF LLC. A Covered Individual who makes a report in bad faith will be subject to appropriate discipline, including termination of their relationship with IETF LLC.
  
 Policy version: X
+
 Last updated: XX/XX/XXXX
