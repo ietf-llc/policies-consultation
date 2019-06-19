@@ -9,10 +9,10 @@ Timing of the community consultation process:
 
 Wednesday, June 19, 2019 at 15:00 UTC
 - Live webinar on policies, 60 minutes duration, with Q&A. Join at https://ietf.webex.com/ietf/j.php?MTID=m41483e425f707ebcd439ddecf11ff15f
-- The webinar will be recorded for the convenience of interested parties unable to attend.
+- The webinar will be recorded for the convenience of interested parties unable to attend - play it back at https://ietf.webex.com/recordingservice/sites/ietf/recording/playback/c60be744639447d49782fc314247db71 
 
 Four Week Review Period - June 19 - July 16, 2019
-- Recorded webinar is available
+- Recorded webinar is available at https://ietf.webex.com/recordingservice/sites/ietf/recording/playback/c60be744639447d49782fc314247db71 
 - Comments and suggestions invited via GitHub and/or email to the discussion list llc-consultation@ietf.org
 
 Starting July 17, 2019
