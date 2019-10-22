@@ -2,7 +2,7 @@ DRAFT RECORDS RETENTION AND MANAGEMENT POLICY
  
 [“COVERED INDIVIDUALS” NOTE: SEE BOILERPLATE TEXT DEFINING “COVERED INDIVIDUALS” LISTED SEPARATELY. THIS WILL BE ADDED LATER ONCE THE TEXT IS FINALIZED. BUT WE FELT IT EASIER TO MANAGE COMMENTS ON THE DEFINITION OF “COVERED INDIVIDUALS” ON A STANDALONE BASIS RATHER THAN IN EACH POLICY.] 
  
-The Records Retention and Management Policy (the “Records Policy”) of the IETF Administration LLC (the “IETF LLC”) includes the attached Document Retention Matrix. Document retention is the process of managing all types of business documents and records to ensure that they are readily available for as long as they are useful or are required by law to be retained. In general, when documents are no longer useful and are no longer legally required to be retained, they should be destroyed.
+The Records Retention and Management Policy (the “Records Policy”) of the IETF Administration LLC (the “IETF LLC”) includes the Document Retention Matrix in Schedule A (which may be updated independently of this policy). Document retention is the process of managing all types of business documents and records to ensure that they are readily available for as long as they are useful or are required by law to be retained. In general, when documents are no longer useful and are no longer legally required to be retained, they should be destroyed.
  
 **Objective of the Records Policy**
 
@@ -39,9 +39,9 @@ Last updated: XX/XX/XXXX
  
 [NEW PAGE]
  
-DRAFT DOCUMENT RETENTION MATRIX
+SCHEDULE A - DRAFT DOCUMENT RETENTION MATRIX
  
-[NOTE FOR IETF COMMUNITY REVIEW: THE RETENTION PERIODS ARE TBD AND WILL BE RELEASED SOON.]
+[NOTE FOR IETF COMMUNITY REVIEW: THE RETENTION PERIODS ARE TBD.]
  
 Matrix version: X
 
