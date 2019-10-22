@@ -9,7 +9,7 @@ It is the policy of IETF LLC not to retaliate against good faith reports of inap
 All Covered Individuals have the responsibility to promptly report violations, or concerns regarding potential violations of IETF LLC policies, its Code of Conduct, or applicable laws, regulations or ethical standards.
  
 **Reporting Procedure**
-Violations or concerns regarding potential violations may be reported directly to any individual IETF LLC Board Director, the IETF Chair, or to the IETF LLC reporting mechanism. 
+Violations or concerns regarding potential violations may be reported directly to any individual IETF LLC Board Director, the IETF Chair, or any other IETF LLC reporting mechanism. 
 
 **Anonymous Reports**
 The person making the report can choose to do so anonymously via a web-based tool, if they so wish. 
