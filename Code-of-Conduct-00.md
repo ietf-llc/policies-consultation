@@ -64,7 +64,7 @@ The IETF LLC will promptly investigate all reports of harassment (see separate W
  
 **7. 	Confidentiality and Proprietary Information**
  
-While much of the work of the IETF LLC is public information, Covered Individuals may access or create certain information (in written or electronic form, or communicated orally) that has been created, developed or disclosed with expectations of confidential treatment.  Examples of such confidential information include certain IETF LLC Board discussions, strategy plans, financial data, contracts, personnel data and salary information.
+The work of the IETF LLC is public by default. However, Covered Individuals may access or create certain information (in written or electronic form, or communicated orally) that has been created, developed or disclosed with expectations of confidential treatment.  Examples of such confidential information include certain IETF LLC Board discussions, strategy plans, financial data, contracts, personnel data and salary information.
  
 Covered Individuals, both during and after their affiliation with the IETF LLC, are expected to protect all IETF LLC confidential and proprietary information, to keep it in strictest confidence, only use it for the fulfillment of their obligations related to IETF LLC, and not disclose it to unauthorized third parties.
  
