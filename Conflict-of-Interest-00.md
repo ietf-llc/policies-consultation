@@ -16,11 +16,11 @@ To avoid the risk of any improper conduct or potential for conflicts, the follow
 
 **Disclosure of Actual or Potential Conflicts**
 
-In addition to the obligation that all Covered Individuals adhere to the IETF LLC’s Code of Conduct, the IETF LLC requires that all Covered Individuals promptly disclose facts or circumstances that could constitute or be perceived to be a potential conflict of interest. 
+In addition to the obligation that all Covered Individuals adhere to the IETF LLC’s Code of Conduct, the IETF LLC requires that all Covered Individuals promptly disclose to the IETF LLC Board facts or circumstances that could constitute or be perceived to be a potential conflict of interest. 
 
 In the event a Covered Individual discloses a potential conflict of interest, non-conflicted Board Directors will review all disclosures and determine an appropriate resolution. Pending the Board’s review and resolution of a potential conflict of interest, disclosing Covered Individuals will conduct themselves so as to minimize the possible impact of the potential conflict of interest on IETF LLC. Each Covered Individual agrees to comply with the resulting determination of the Board, including recusal from participation in certain IETF LLC matters, termination of the conflict-related activity, termination of the engagement with the IETF LLC, or other action as directed by the IETF LLC Board.
 
-A Covered Individual should complete the attached Conflict of Interest Disclosure Form to fully and completely disclose the material facts about any potential conflicts of interest. This Disclosure Form shall be submitted on each of the following events: 
+A Covered Individual should complete the attached Conflict of Interest Disclosure Form to fully and completely disclose the material facts about any potential conflicts of interest. This Disclosure Form shall be submitted to the IETF LLC Board on each of the following events: 
 
 1 - Upon a person’s initial association with IETF LLC.
 
@@ -28,7 +28,7 @@ A Covered Individual should complete the attached Conflict of Interest Disclosur
 
 3 - At any time that  change occurs after a Form has been submitted. In this case, Covered Individuals must disclose potential conflicts of interest as soon as they are known or reasonably should be known.
 
-At least annually, the Board, as one of its functions and responsibilities, will review a current copy of each Disclosure Form for the purpose of monitoring compliance with the terms of this Policy. If the Board has reason to believe that a Covered Individual has failed to disclose a potential conflict of interest, it shall inform the Covered Individual of the basis for such belief and allow the Covered Individual an opportunity to explain the alleged failure to disclose. If the Board decides that the Covered Individual has in fact failed to disclose a potential conflict of interest, the Board shall take such disciplinary and corrective action as the Board shall determine appropriate for the circumstances.
+At least annually, the IETF LLC Board, as one of its functions and responsibilities, will review a current copy of each Disclosure Form for the purpose of monitoring compliance with the terms of this Policy. If the Board has reason to believe that a Covered Individual has failed to disclose a potential conflict of interest, it shall inform the Covered Individual of the basis for such belief and allow the Covered Individual an opportunity to explain the alleged failure to disclose. If the Board decides that the Covered Individual has in fact failed to disclose a potential conflict of interest, the Board shall take such disciplinary and corrective action as the Board shall determine appropriate for the circumstances.
 
 **Disclosure Transparency**
 
