@@ -2,7 +2,7 @@ DRAFT CONFLICT OF INTEREST POLICY
 
 [“COVERED INDIVIDUALS” NOTE: SEE BOILERPLATE TEXT DEFINING “COVERED INDIVIDUALS” LISTED SEPARATELY. THIS WILL BE ADDED LATER ONCE THE TEXT IS FINALIZED. BUT WE FELT IT EASIER TO MANAGE COMMENTS ON THE DEFINITION OF “COVERED INDIVIDUALS” ON A STANDALONE BASIS RATHER THAN IN EACH POLICY.] 
 
-Covered Individuals must act in the best interest of IETF LLC. Occasionally this duty may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of his or her relatives), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or financial interest.  If this occurs, or if for any other reason a Covered Individual is unable to make unbiased or impartial decisions in connection with his or her IETF LLC activities, the Covered Individual has a potential conflict of interest that must be documented, disclosed, addressed, avoided, and/or eliminated.
+Covered Individuals must act in the best interest of IETF LLC. Occasionally this duty may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their relatives), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or financial interest.  If this occurs, or if for any other reason a Covered Individual is unable to make unbiased or impartial decisions in connection with their IETF LLC activities, the Covered Individual has a potential conflict of interest that must be documented, disclosed, addressed, avoided, and/or eliminated.
 
 **Prohibited Conflicts**
 
