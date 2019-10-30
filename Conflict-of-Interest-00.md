@@ -85,6 +85,6 @@ Name:
 Date:
  
  
-Policy version: X
+Policy version: 1
 
-Last updated: XX/XX/XXXX
+Last updated: 31-October-2019
