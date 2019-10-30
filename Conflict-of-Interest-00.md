@@ -48,22 +48,22 @@ If additional space is needed in any section, please attach additional pages.
 
 I. The name of my current employer(s) or parties for whom I contract:
 
-| Organization | Postion |
-|--------------|---------|
-|              |         |
-|              |         |
-|              |         |
-|              |         |
+| Organization | Position |
+|--------------|----------|
+|              |          |
+|              |          |
+|              |          |
+|              |          |
  
  
 II. The names of organizations for which I, a family member, or a related party serves as a board member, officer, or director, or organizations for which I, a family member, or a related party is the sole owner, co-owner, controlling shareholder, or significant shareholder (under the US Securities and Exchange Commission’s definition), other than for the IETF Administration LLC:
 
-| Organization | Organization Type | Postion |
-|--------------|-------------------|---------|
-|              |                   |         |
-|              |                   |         |
-|              |                   |         |
-|              |                   |         |
+| Organization | Organization Type | Position |
+|--------------|-------------------|----------|
+|              |                   |          |
+|              |                   |          |
+|              |                   |          |
+|              |                   |          |
  
  
 III. Other activities I participate in that may be in a similar area of activity as the IETF Administration LLC, or other potential conflicts of interests with my IETF Administration LLC responsibilities:
