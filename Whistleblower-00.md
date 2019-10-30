@@ -19,8 +19,8 @@ All reports shall be promptly investigated by the IETF LLC Board in consultation
  
 The investigation shall assess the complaint and determine what, if any, course of action is appropriate to take in response.  IETF LLC will make every effort to treat a complainant’s identity (if it is known) with an appropriate regard for confidentiality, with the understanding that the details of complaints may need to be shared with others in order to investigate such complaints properly.
  
-No complainant who has made a complaint in good faith shall suffer harassment or retaliation for such complaint by a Covered Individual. Any Covered Individual who retaliates against a complainant acting in good faith will be subject to appropriate discipline, which may include termination of their relationship with IETF LLC. A Covered Individual who makes a report in bad faith will be subject to appropriate discipline, including termination of their relationship with IETF LLC.
- 
+No complainant (whether or not a Covered Individual) who has made a complaint in good faith shall suffer harassment or retaliation for such complaint by a Covered Individual. Any Covered Individual who retaliates against a complainant acting in good faith will be subject to appropriate discipline, including termination. A Covered Individual who makes a report in bad faith will be subject to appropriate discipline, including termination of their relationship with IETF LLC.
+
 Policy version: X
 
 Last updated: XX/XX/XXXX
