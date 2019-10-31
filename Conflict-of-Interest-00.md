@@ -2,7 +2,7 @@ DRAFT CONFLICT OF INTEREST POLICY
 
 [“COVERED INDIVIDUALS” NOTE: SEE BOILERPLATE TEXT DEFINING “COVERED INDIVIDUALS” LISTED SEPARATELY. THIS WILL BE ADDED LATER ONCE THE TEXT IS FINALIZED. BUT WE FELT IT EASIER TO MANAGE COMMENTS ON THE DEFINITION OF “COVERED INDIVIDUALS” ON A STANDALONE BASIS RATHER THAN IN EACH POLICY.] 
 
-Covered Individuals must act in the best interest of IETF LLC. Occasionally this duty may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their relatives), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or financial interest.  If this occurs, or if for any other reason a Covered Individual is unable to make unbiased or impartial decisions in connection with their IETF LLC activities, the Covered Individual has a potential conflict of interest that must be documented, disclosed, addressed, avoided, and/or eliminated.
+Covered Individuals must act in the best interest of IETF LLC. Occasionally this duty may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their family members), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or financial interest.  If this occurs, or if for any other reason a Covered Individual is unable to make unbiased or impartial decisions in connection with their IETF LLC activities, the Covered Individual has a potential conflict of interest that must be documented, disclosed, addressed, avoided, and/or eliminated.
 
 For purposes of this policy and related disclosures, "family" means a spouse, domestic partner, child, sibling, parent, stepchild, stepparent, and mother-, father-, son-, daughter-, brother-, or sister-in-law, and any other person living in the same household, except tenants and household employees.
 
@@ -55,8 +55,8 @@ I. The name of my current employer(s) or parties for whom I contract:
 |              |          |
 |              |          |
  
- 
-II. The names of organizations for which I, a family member, or a related party serves as a board member, officer, or director, or organizations for which I, a family member, or a related party is the sole owner, co-owner, controlling shareholder, or significant shareholder (under the US Securities and Exchange Commission’s definition), other than for the IETF Administration LLC:
+
+II. The names of organizations for which I or a family member serves as a board member, officer, or director, or organizations for which I or a family member is the sole owner, co-owner, controlling shareholder, or significant shareholder (under the US Securities and Exchange Commission’s definition), other than for the IETF Administration LLC:
 
 | Organization | Organization Type | Position |
 |--------------|-------------------|----------|
