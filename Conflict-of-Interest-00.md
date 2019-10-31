@@ -56,7 +56,7 @@ I. The name of my current employer(s) or parties for whom I contract:
 |              |          |
  
 
-II. The names of organizations for which I or a family member serves as a board member, officer, or director, or organizations for which I or a family member is the sole owner, co-owner, controlling shareholder, or significant shareholder (under the US Securities and Exchange Commission’s definition), other than for the IETF Administration LLC:
+II. The names of organizations for which I or a family member serves as a board member, officer, or director, or organizations for which I or a family member is the sole owner, co-owner, controlling shareholder, or significant shareholder (under the US Securities and Exchange Commission’s definition), other than for the IETF Administration LLC for which there is an actual or potential perceived conflict of interest:
 
 | Organization | Organization Type | Position |
 |--------------|-------------------|----------|
