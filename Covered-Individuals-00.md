@@ -1,4 +1,4 @@
-DRAFT - BOILERPLAT FOR COVERED INDIVIDUALS (appears in many policies)
+DRAFT - BOILERPLATE FOR COVERED INDIVIDUALS (appears in many policies)
  
 Who is a Covered Individual? 
 The IETF Administration LLC (“IETF LLC”) Board Directors, employees and contractors, as well as any volunteers and/or agents who are formally authorized to act on behalf of IETF LLC in some capacity (collectively, “Covered Individuals”).
