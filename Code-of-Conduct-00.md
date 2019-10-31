@@ -38,7 +38,7 @@ IETF LLC follows a fair and equal opportunity employment policy and employs pers
  
 Harassment by Covered Individuals will not be tolerated in any form, including but not limited to harassment based on race, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, marital status, religion, ethnicity, national origin, ancestry or any other status protected by applicable laws. Covered Individuals must also promptly report any instances of harassment that they witness involving other Covered Individuals, either to their Approval Authority listed above or via the tool(s) identified in the Whistleblower Policy.
  
-If Covered Individuals are also IETF participants, then relevant IETF-specific anti-harassment policies (and other policies pertaining to conduct) will apply in cases when they are acting solely as an IETF participant.Otherwise this policy will apply. 
+If Covered Individuals are also IETF participants, then relevant IETF-specific anti-harassment policies (and other policies pertaining to conduct) will apply in cases when they are acting solely as an IETF participant.  Otherwise this policy will apply. 
  
 Harassment is unwelcome hostile or intimidating behavior and includes:
  
@@ -115,7 +115,7 @@ Awards may be accepted for meritorious contributions or service if they are of n
  
 **10. 	Anti-Bribery and Corruption (ABC) Policy & Procedures**
  
-The IETF LLC is committed to conducting its business ethically in every country in which it does business, as well as complying with all applicable U.S. and local laws.  This includes compliance with anti-bribery and corruption (ABC) laws such as the U.S. Foreign Corrupt Practices Act (FCPA) or UK Bribery Act of 2010.
+The IETF LLC is committed to conducting its business ethically in every country in which it does business, as well as complying with all applicable U.S., state, and local laws.  This includes compliance with anti-bribery and corruption (ABC) laws such as the U.S. Foreign Corrupt Practices Act (FCPA) or UK Bribery Act of 2010.
  
 Corruption is any abuse of power for private gain; while bribery is an act of giving money or gift giving that alters the behavior of the recipient. Although the nature and scope of corruption and bribery may differ from country to country, the IETF LLC has a strict zero-tolerance policy toward bribery and corruption and strictly prohibits any improper payments in any type of business dealings anywhere in the world.
  
