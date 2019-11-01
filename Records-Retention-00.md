@@ -1,6 +1,8 @@
 DRAFT RECORDS RETENTION AND MANAGEMENT POLICY
  
-[“COVERED INDIVIDUALS” NOTE: SEE BOILERPLATE TEXT DEFINING “COVERED INDIVIDUALS” LISTED SEPARATELY. THIS WILL BE ADDED LATER ONCE THE TEXT IS FINALIZED. BUT WE FELT IT EASIER TO MANAGE COMMENTS ON THE DEFINITION OF “COVERED INDIVIDUALS” ON A STANDALONE BASIS RATHER THAN IN EACH POLICY.] 
+Who is a Covered Individual? The IETF Administration LLC (“IETF LLC”) Board Directors, employees and contractors, as well as any volunteers and/or agents who are formally authorized to act on behalf of IETF LLC in some capacity and are considered by the LLC to be acting in that capacity (collectively, “Covered Individuals”).
+
+Who is not a Covered Individual? IETF participants, IRTF participants, IESG members, the IRTF Chair, IAB members, IAB program members, working group chairs, research group chairs, directorate participants, the Independent Submissions Editor, the Independent Submissions Editorial Board, NOC volunteers, Tools team volunteers, the Ombudsteam, the Sergeants-at-arms, trustees of the IETF Trust, and any individual not involved in the IETF, except if such individuals are formally authorized as Covered Individuals (such as an IETF LLC Board Director).
  
 The Records Retention and Management Policy (the “Records Policy”) of the IETF Administration LLC (the “IETF LLC”) includes the Document Retention Matrix in Schedule A (which may be updated independently of this policy). Document retention is the process of managing all types of business documents and records to ensure that they are readily available for as long as they are useful or are required by law to be retained. In general, when documents are no longer useful and are no longer legally required to be retained, they should be destroyed.
  
@@ -33,9 +35,9 @@ As soon as any Covered Individual learns that the IETF LLC is subject to or is r
 The IETF LLC Executive Director shall notify Covered Individuals as appropriate concerning legal requests and requirements concerning the retention of documents in IETF LLC custody.  
 
 
-Policy version: X
+Policy version: 1
 
-Last updated: XX/XX/XXXX
+Last updated: 31-October-2019
  
 [NEW PAGE]
  
