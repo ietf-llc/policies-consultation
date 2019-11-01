@@ -1,3 +1,7 @@
+**THE INITIAL POLICY DEVELOPMENT PROCESS IS COMPLETE - THANK YOU FOR YOUR FEEDBACK**
+
+
+
 # policies-consultation
 Materials for a consultation with the IETF community on IETF LLC policies.
 
