@@ -16,7 +16,7 @@ To avoid the risk of any improper conduct or potential for conflicts, the follow
 
 - Covered Individuals shall not engage in any outside business, professional conduct, or other activities that are directly adverse to the interests of IETF LLC.   
 
-- Board Directors  (and their families) may not receive direct compensation for providing goods or services to IETF LLC, whether as paid contractors, paid advisors, paid employees, or through a financial interest in a party (such as ownership, but not including employment) that enters into a transaction with the IETF LLC.
+- Board Directors (and their families) may not receive direct compensation for providing goods or services to IETF LLC, whether as paid contractors, paid advisors, paid employees, or through a financial interest in a party (such as ownership, but not including employment) that enters into a transaction with the IETF LLC.
 
 **Disclosure of Actual or Potential Conflicts**
 
@@ -30,7 +30,7 @@ A Covered Individual should complete the attached Conflict of Interest Disclosur
 
 2 - On an annual basis established by the IETF LLC Board.
 
-3 - At any time that  change occurs after a Form has been submitted. In this case, Covered Individuals must disclose potential conflicts of interest as soon as they are known or reasonably should be known.
+3 - At any time that change occurs after a Form has been submitted. In this case, Covered Individuals must disclose potential conflicts of interest as soon as they are known or reasonably should be known.
 
 At least annually, the IETF LLC Board, as one of its functions and responsibilities, will review a current copy of each Disclosure Form for the purpose of monitoring compliance with the terms of this Policy. If the Board has reason to believe that a Covered Individual has failed to disclose a potential conflict of interest, it shall inform the Covered Individual of the basis for such belief and allow the Covered Individual an opportunity to explain the alleged failure to disclose. If the Board decides that the Covered Individual has in fact failed to disclose a potential conflict of interest, the Board shall take such disciplinary and corrective action as the Board shall determine appropriate for the circumstances.
 
