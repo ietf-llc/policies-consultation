@@ -98,9 +98,7 @@ Covered Individuals should be aware that:
 
 - Frequent gifts (more than one a year) from the same party, including those below the 50.00 USD threshold, may be considered improper and a potential conflict of interest.  
 
-- They may not solicit any gift, regardless of value, from a business partner for any non-charitable purpose, unless the 
-
-- Covered Individual has obtained the appropriate pre-approvals.
+- They may not solicit any gift, regardless of value, from a business partner for any non-charitable purpose, unless the Covered Individual has obtained the appropriate pre-approvals.
 
 - They may not use personal funds to pay for a gift for a business partner in connection with IETF LLC activities.
  
