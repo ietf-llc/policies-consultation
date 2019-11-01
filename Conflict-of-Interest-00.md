@@ -46,7 +46,7 @@ I, [INSERT NAME], hereby acknowledge that I have received, read, and understand 
 
 I hereby certify that the information contained below is true, complete, and accurate.
 
-If additional space is needed in any section, please attach additional pages.
+(If additional space is needed in any section, please attach additional pages. This text can be removed when your form is filed.)
 
 I. The name of my current employer(s) or parties for whom I contract:
 
@@ -78,7 +78,7 @@ III. Other activities I participate in that may be in a similar area of activity
 |              |                   |             |
  
 
-(if additional space is needed, please attach additional sheets)
+(If additional space is needed in any section, please attach additional pages. This text can be removed when your form is filed.)
  
 Signature:
 
