@@ -1,6 +1,8 @@
-DRAFT CODE OF CONDUCT
- 
-[“COVERED INDIVIDUALS” NOTE: SEE BOILERPLATE TEXT DEFINING “COVERED INDIVIDUALS” LISTED SEPARATELY. THIS WILL BE ADDED LATER ONCE THE TEXT IS FINALIZED. BUT WE FELT IT EASIER TO MANAGE COMMENTS ON THE DEFINITION OF “COVERED INDIVIDUALS” ON A STANDALONE BASIS RATHER THAN IN EACH POLICY.] 
+IETF LLC CODE OF CONDUCT
+
+Who is a Covered Individual? The IETF Administration LLC (“IETF LLC”) Board Directors, employees and contractors, as well as any volunteers and/or agents who are formally authorized to act on behalf of IETF LLC in some capacity and are considered by the LLC to be acting in that capacity (collectively, “Covered Individuals”).
+
+Who is not a Covered Individual? IETF participants, IRTF participants, IESG members, the IRTF Chair, IAB members, IAB program members, working group chairs, research group chairs, directorate participants, the Independent Submissions Editor, the Independent Submissions Editorial Board, NOC volunteers, Tools team volunteers, the Ombudsteam, the Sergeants-at-arms, trustees of the IETF Trust, and any individual not involved in the IETF, except if such individuals are formally authorized as Covered Individuals (such as an IETF LLC Board Director).
  
 The IETF LLC functions are performed and/or overseen by the Covered Individuals described above. All Covered Individuals must adhere to the various policies adopted by the IETF LLC from time to time, including processes and procedures set out in this Code of Conduct.
  
@@ -154,6 +156,6 @@ Covered Individuals will conduct rigorous due diligence on any third party that 
 
 The US adopted certain antiboycott laws to encourage, and in specified cases, require US companies to refuse to participate in foreign boycotts unsanctioned by the United States (such as the Arab League boycott of Israel). Covered Individuals shall not agree to include words such as “Boycott”, “blacklist” or similar terms in any IETF LLC related documents such as contracts, invoices, purchase orders, etc. and shall report to the Executive Director any requests to comply with a foreign boycott.
  
-Policy version: X
+Policy version: 1
 
-Last updated: XX/XX/XXXX
+Last updated: 31-October-2019
