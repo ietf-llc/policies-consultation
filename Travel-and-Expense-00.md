@@ -105,6 +105,6 @@ Claims for reimbursement for all allowable travel expenses described above must 
 IETF LLC may decline to pay all or a portion of an expense if it is deemed to be excessive or unnecessary. To the extent available, IETF LLC will use guidelines for deductibility provided by taxing authorities or other standards for non-profit entities. Approved Travelers should contact the appropriate Approval Authority in advance if they are unsure about an expense item, such as whether it is reasonable or whether it is likely to be reimbursable under this policy.
  
 
-Policy version: X
+Policy version: 1
 
-Last updated: XX/XX/XXXX
+Last updated: 31-October-2019
