@@ -1,3 +1,6 @@
+**THE INITIAL POLICY DEVELOPMENT PROCESS IS COMPLETE - THANK YOU FOR YOUR FEEDBACK**
+
+
 **RECOMMENDED ORDER FOR REVIEWING POLICIES**
 
 1. Policies Webpage Header - https://github.com/ietf-llc/policies-consultation/blob/master/Polices-Webpage-Header-00.md
