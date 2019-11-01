@@ -1,5 +1,4 @@
 DRAFT Process for Reviewing and Posting Official Meeting Minutes 
-
  
 1. Draft minutes will be made available for review and comment by the Board.
   - Redline/comments will be made using the in-document change suggestion option.
@@ -11,6 +10,6 @@ DRAFT Process for Reviewing and Posting Official Meeting Minutes
 3. IETF Secretariat will post to the IETF LLC website.
 
 
-Policy version: X
+Policy version: 1
 
-Last updated: XX/XX/XXXX
+Last updated: 31-October-2019
