@@ -1,7 +1,8 @@
-DRAFT WHISTLEBLOWER POLICY
+WHISTLEBLOWER POLICY
  
- 
-[“COVERED INDIVIDUALS” NOTE: SEE BOILERPLATE TEXT DEFINING “COVERED INDIVIDUALS” LISTED SEPARATELY. THIS WILL BE ADDED LATER ONCE THE TEXT IS FINALIZED. BUT WE FELT IT EASIER TO MANAGE COMMENTS ON THE DEFINITION OF “COVERED INDIVIDUALS” ON A STANDALONE BASIS RATHER THAN IN EACH POLICY.] 
+Who is a Covered Individual? The IETF Administration LLC (“IETF LLC”) Board Directors, employees and contractors, as well as any volunteers and/or agents who are formally authorized to act on behalf of IETF LLC in some capacity and are considered by the LLC to be acting in that capacity (collectively, “Covered Individuals”).
+
+Who is not a Covered Individual? IETF participants, IRTF participants, IESG members, the IRTF Chair, IAB members, IAB program members, working group chairs, research group chairs, directorate participants, the Independent Submissions Editor, the Independent Submissions Editorial Board, NOC volunteers, Tools team volunteers, the Ombudsteam, the Sergeants-at-arms, trustees of the IETF Trust, and any individual not involved in the IETF, except if such individuals are formally authorized as Covered Individuals (such as an IETF LLC Board Director).
  
 It is the policy of IETF LLC not to retaliate against good faith reports of inappropriate, unethical or illegal conduct. Anyone may submit such reports.
  
@@ -21,6 +22,6 @@ The investigation shall assess the complaint and determine what, if any, course 
  
 No complainant (whether or not a Covered Individual) who has made a complaint in good faith shall suffer harassment or retaliation for such complaint by a Covered Individual. Any Covered Individual who retaliates against a complainant acting in good faith will be subject to appropriate discipline, including termination. A Covered Individual who makes a report in bad faith will be subject to appropriate discipline, including termination of their relationship with IETF LLC.
 
-Policy version: X
+Policy version: 1
 
-Last updated: XX/XX/XXXX
+Last updated: 31-October-2019
