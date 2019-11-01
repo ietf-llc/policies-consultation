@@ -1,6 +1,8 @@
-DRAFT CONFLICT OF INTEREST POLICY
+IETF LLC CONFLICT OF INTEREST POLICY
 
-[“COVERED INDIVIDUALS” NOTE: SEE BOILERPLATE TEXT DEFINING “COVERED INDIVIDUALS” LISTED SEPARATELY. THIS WILL BE ADDED LATER ONCE THE TEXT IS FINALIZED. BUT WE FELT IT EASIER TO MANAGE COMMENTS ON THE DEFINITION OF “COVERED INDIVIDUALS” ON A STANDALONE BASIS RATHER THAN IN EACH POLICY.] 
+Who is a Covered Individual? The IETF Administration LLC (“IETF LLC”) Board Directors, employees and contractors, as well as any volunteers and/or agents who are formally authorized to act on behalf of IETF LLC in some capacity and are considered by the LLC to be acting in that capacity (collectively, “Covered Individuals”).
+
+Who is not a Covered Individual? IETF participants, IRTF participants, IESG members, the IRTF Chair, IAB members, IAB program members, working group chairs, research group chairs, directorate participants, the Independent Submissions Editor, the Independent Submissions Editorial Board, NOC volunteers, Tools team volunteers, the Ombudsteam, the Sergeants-at-arms, trustees of the IETF Trust, and any individual not involved in the IETF, except if such individuals are formally authorized as Covered Individuals (such as an IETF LLC Board Director).
 
 Covered Individuals must act in the best interest of IETF LLC. Occasionally this duty may be—or may appear to be—incompatible or in conflict with a Covered Individual’s personal interests (including interests of their family members), or the interests of an organization of which the Covered Individual is an employee, director, owner, or otherwise has business or financial interest.  If this occurs, or if for any other reason a Covered Individual is unable to make unbiased or impartial decisions in connection with their IETF LLC activities, the Covered Individual has a potential conflict of interest that must be documented, disclosed, addressed, avoided, and/or eliminated.
 
