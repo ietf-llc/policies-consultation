@@ -13,4 +13,4 @@ DRAFT Process for Reviewing and Posting Official Meeting Minutes
 
 Policy version: 2
 
-Last updated: 11-February-2020
+Last updated: 13-February-2020
